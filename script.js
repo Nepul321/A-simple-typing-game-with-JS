@@ -8,7 +8,7 @@ var btn = document.createElement("button")
 const countdown = document.getElementById("countdown")
 let points = 0;
 const app = document.getElementById("app")
-let count = 5;
+let count = 10;
 
 const words = [
     "HTML",
